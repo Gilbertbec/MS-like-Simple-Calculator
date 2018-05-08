@@ -1,7 +1,7 @@
 ﻿/// Solution of Project 1 of C# Class in LasalleCollege Montreal  2018-02-21
 /// Using simple Factory + Strategy Mode with C# Create a MS-like simple Calculator
 /// Comparison of function mode, switch case mode and simple factory + strategy mode
-/// Gilbert Zhang xixi2010@gamil.com
+/// Gilbert Zhang ca.qc.gilbert@gmail.com
 namespace Calculator
 {
 	using System;
